@@ -1,6 +1,7 @@
 # 1. Kickstarter Analysis
 ##   1.1 Overview and purpose of the project
-       Analysis were made to the kickstarter data to recognise and visualize any trends between the successrate and that of funding goals and launch date.
+       Analysis were made to the kickstarter data to recognise and visualize any trends between the successrate 
+       and that of funding goals and launch date.
        The outcome of the analysis is shown in graphs.
 ##   1.2 Analysis and Challenges
        The analysis was performed in 2 parts.
@@ -12,7 +13,6 @@
        
  #### Graph1: Theater Outcomes Based on Launch Date      
 ![image](https://user-images.githubusercontent.com/85843030/123470156-00e03f00-d5c2-11eb-9565-8d022e413679.png)
-
        
        As shown in Graph1, the most successful months to launch theater is between April and August, with May having the top peek for successful theater launches.
        And the launch successrate decrease towards the end of the year
@@ -25,3 +25,7 @@
        
 #### Graph2: Outcome based on funding goals for subcategory Plays
 ![image](https://user-images.githubusercontent.com/85843030/123492745-60514580-d5e8-11eb-9585-e0c8a30f0413.png)
+       
+       As shown in Graph2, the highest successrate is in the region of $0-$4999 and starts have a steady decrease 
+       in successrate util the range of $25000-$29999. After this region, thesuccess rate is increasing again to 
+       have a sudden drop at the higher funding goal range.
