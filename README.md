@@ -8,15 +8,16 @@
        Part 2 was to see if there are any links between funding goals and success rate for the same entertainment categories.
 ###  1.2.1 Analysis of outcome based on Launch date
        The analysis carried out consists of looking to see if there is a link between successful funding goals and launch date.
-       For this task, a table is created counting the successful outcomes, failed outcomse and canceled outcomes for each year.
+       For this task, a table is created counting the successful outcomes, failed outcomse and canceled outcomes for each month
        
        
 ![image](https://user-images.githubusercontent.com/85843030/123470156-00e03f00-d5c2-11eb-9565-8d022e413679.png)
 #### Graph1: Theater Outcomes Based on Launch Date
        
        As shown in Graph1, the most successful months to launch theater is between April and August, with May having the top peek for successful theater launches.
+       And the launch successrate decrease towards the end of the year
        We can also see that the successful and fail outcomes follow the same trend. 
 
 ###  1.2.2 Analysis of outcome based on funding goals
        The analysis carried out consists of looking at the various funding goal ranges, and decide if one funding goal range performs better
-       than any other one, or if there is a trend between the funding goals and success rate.
+       than any other one, or if there is a trend between the funding goals and success rate. For this task, a graph was created to visual
