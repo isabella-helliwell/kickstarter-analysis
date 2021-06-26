@@ -32,3 +32,13 @@
        in successrate until the graph reaches the higher end of the funding goals, in the range of $25000-$29999. After this region, 
        thesuccess rate is increasing again to have a sudden drop towards the higher funding goal range.
        There are also no cancelation in the play category, as seen in Graph2.
+       
+## 1.3 Limitations of Datasets
+### 1.3.1 Outcome based on launchdate
+    
+       
+       
+       
+       
+       
+       
