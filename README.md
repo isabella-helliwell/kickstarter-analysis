@@ -1,13 +1,14 @@
 # 1. Kickstarter Analysis
 ##   1.1 Overview and purpose of the project
        Analysis are made to the kickstarter data to recognize and visualize any trends between the success rate 
-       and that of funding goals and launch date.
+       and that of funding goals and launch date specificaly for the theater category and plays. 
        The outcome of the analysis is shown in graphs.
-##   1.2 Analysis and Challenges
+# 2. Analysis and Challenges
        The analysis is performed in 2 parts.
-       Part 1 is to visualize any link between launch date and a successful outcome for the theater category.
-       Part 2 is to see if there are any links between funding goals and success rate for a specific subcategory plays.
-###  1.2.1 Analysis of outcome based on Launch date
+       Part 1 is to visualize any link between launch date and outcome for the theater category.
+       Part 2 is to  visualize any link between funding goals and outcome for theater and subcategory plays.
+       The main challenge with this project is to plot the relevant data to visualize a comprehensive 
+##   2.1 Analysis of outcome based on Launch date
        The analysis carried out consists of looking to see if there is a link between successful funding goals and launch date.
        For this task, a table is created counting the successful outcomes, failed outcomse and canceled outcomes for each month,
        and for all the years.
@@ -20,7 +21,7 @@
        The data also show the launch success rate decrease towards the end of the year.
        We can also see that the successful and fail outcomes follow the same trend. 
 
-###  1.2.2 Analysis of outcome based on funding goals
+##     2.2 Analysis of outcome based on funding goals
        The analysis carried out consists of looking at specific funding goal ranges, and decide if one funding goal range performs better
        than any other one, or if there is a trend between the funding goals and success rate. For this task, Graph2 is created to plot the outcome based
        on funding goals against some predefined funding goal ranges.
@@ -33,14 +34,21 @@
        thesuccess rate is increasing again to have a sudden drop towards the higher funding goal range.
        There are also no cancelation in the play category, as seen in Graph2.
        
-## 1.3 Limitations of Datasets
-### 1.3.1 Outcome based on launchdate
+# 3.Results       
+       
+       
+# 4. Limitations of Datasets
+##   4.1 Outcome based on launchdate-limitations
         As shown in Graph1, the highest theater lanches are most successful during may month, however during the same month, we can
         see an increase in failed launches. We can look into the outcome proportions. We can see if this trend is the same if we isolate
         a country we are interested in launching our theatre in. We can also see if there is a genre that is more popular in the theater category
         
         
-### 1.3.2 Outcome based on goals
+##   3.2 Outcome based on goals-limitations
+        Graph2 does not show the total projects for each price range. Furthermore, it might be a good idea so define a region where most projects 
+        seem to be successful.
+        There is also no information on what decides the funding goal amount.
+           
         
 
        
