@@ -36,7 +36,11 @@
        There are also no cancelation in the play category, as seen in Graph2.
        
 # 3.Results       
-       
+##  3.1 Results-outcome based on launch date
+        From the Graph1, the three results are made:
+        * Highest success rate for theater is in May.
+        * Lowest success rate for theater is in December.
+        * There are no cancellations of the launch in any month or year.
        
 # 4. Limitations of Datasets
 ##   4.1 Outcome based on launchdate-limitations
