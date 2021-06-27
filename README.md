@@ -74,7 +74,7 @@
 #### Graph 3       
 ![image](https://user-images.githubusercontent.com/85843030/123555234-7a0e9c00-d752-11eb-98fa-7effbdd43fba.png)
 
-Comparing Graph 1.1a  and Graph 4.1a, it can be noted that the highest successrate still ocuurs for May month, however the percentage failed is lowest 
+Comparing Graph 1  and Graph 3, it can be noted that the highest successrate still ocuurs for May month, however the percentage failed is lowest 
 in the same month, while in Graph 1, the highest failed rate occured for May also.
        
  
