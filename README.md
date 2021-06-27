@@ -94,5 +94,7 @@ in the same month, while in Graph 1, the highest failed rate occured for May als
 ![image](https://user-images.githubusercontent.com/85843030/123556091-5ac63d80-d757-11eb-8803-30cc6cfd014f.png)
 
 
+#### Graph 7
+![image](https://user-images.githubusercontent.com/85843030/123556479-7af6fc00-d759-11eb-8499-b5c69f1dc3f1.png)
 
 
