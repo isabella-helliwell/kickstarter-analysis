@@ -94,12 +94,21 @@ in the same month, while in Graph 1, the highest failed rate occured for May als
  #### Graph 5
  ![image](https://user-images.githubusercontent.com/85843030/123555550-711eca00-d754-11eb-8b5d-976082293e08.png)
 
+Looking at Graphs 4 and 5 plots, the US and GB seem to have similar trends in terms og success rate in May. We
+are able to say that since these two countries had the most total projects, they dominated the data set in Graph1.
+
+
+
 #### Graph 6       
 ![image](https://user-images.githubusercontent.com/85843030/123556091-5ac63d80-d757-11eb-8803-30cc6cfd014f.png)
 
 
 #### Graph 7
 ![image](https://user-images.githubusercontent.com/85843030/123556651-5fd8bc00-d75a-11eb-9de4-bdf963f963a1.png)
+
+Graphs 6 and 7 show that there are more projects in the $1000-$4999 goal range, that any other range. If we
+take a closer look it can be seen that the percentage of success is higher for the $5000 range. Hence it seems that
+it is easier to reach a fund raising goal when your goal range is just the $6000 limit.
 
 
 
