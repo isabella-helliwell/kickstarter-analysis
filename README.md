@@ -54,7 +54,7 @@
 
         Some Limitations:
         * In order to get a better understanding we can look into the outcome proportions for each month,see Graph 3.
-        * We can see if this trend is the same if we isolate a country we are interested in launching our theatre in
+        * We can see if this trend is the same if we isolate a country we are interested in launching our theatre in Graph 4.
         * We can also see if there is a genre that is more popular in the theater category
         * We can see how the theater category compares to the rest of the categories.
 
@@ -69,12 +69,21 @@
         * The graph does not limit our findings to any specific country. Different countries might have different trends, see Graph 6.
         
             
-    
+ ## Additional Graphs   
        
 #### Graph 3       
 ![image](https://user-images.githubusercontent.com/85843030/123555234-7a0e9c00-d752-11eb-98fa-7effbdd43fba.png)
 
+Comparing Graph 1.1a  and Graph 4.1a, it can be noted that the highest successrate still ocuurs for May month, however the percentage failed is lowest 
+in the same month, while in Graph 1, the highest failed rate occured for May also.
+       
+ 
+ ### Graph 4
+ ![image](https://user-images.githubusercontent.com/85843030/123555524-52b8ce80-d754-11eb-86c6-d6db18ad6828.png)
+ 
+ 
+ 
+ ### Graph 5
+ ![image](https://user-images.githubusercontent.com/85843030/123555550-711eca00-d754-11eb-8b5d-976082293e08.png)
 
-       
-       
        
