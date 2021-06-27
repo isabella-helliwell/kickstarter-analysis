@@ -36,8 +36,14 @@
 ## 1.3 Limitations of Datasets
 ### 1.3.1 Outcome based on launchdate
         As shown in Graph1, the highest theater lanches are most successful during may month, however during the same month, we can
-        see an increase in failed launches. We can look into the outcome proportions, and see if this trend is the same if we isolate
-        soem countries.
+        see an increase in failed launches. We can look into the outcome proportions. We can see if this trend is the same if we isolate
+        a country we are interested in launching our theatre in. We can also see if there is a genre that is more popular in the theater category
+        
+        
+### 1.3.2 Outcome based on goals
+        
+
+       
     
        
        
