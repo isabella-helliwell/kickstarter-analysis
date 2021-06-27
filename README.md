@@ -70,10 +70,15 @@
           for each defined goal range, see Graph 6.    
         * It can be useful to look closer to the goal ranges wehre success rate is higher and find out if there is any links to other
           parameters, see Graph 7 for a plot for funding goal in the range of $0-$20000
-        * The graph does not limit our findings to any specific country. Different countries might have different trends, see Graphs 7.
+        * The graph does not limit our findings to any specific country. Different countries might have different trends.
         
             
- ## Additional Graphs   
+ # 5. Additional Graphs   
+       
+       Shown below are some graphs that was discussed in the limitation chapters. Note that only a handful of additional graphs
+       are shown below. One can create many more plots to answer more specific questions regarding the data sets provided in this
+       task.
+       
        
 #### Graph 3       
 ![image](https://user-images.githubusercontent.com/85843030/123555234-7a0e9c00-d752-11eb-98fa-7effbdd43fba.png)
