@@ -36,27 +36,33 @@
        There are also no cancelation in the play category, as seen in Graph2.
        
 # 3.Results       
-##  3.1 Results-outcome based on launch date
-        From the Graph1, the three results are made:
+##  3.1 Outcome based on launch date-results
+        From the Graph1, three conclusions can be made:
         * Highest success rate for theater is in May.
         * Lowest success rate for theater is in December.
-        * There are no cancellations of the launch in any month or year.
-       
-# 4. Limitations of Datasets
+        
+        
+##  3.2 Outcome based on funding goal-results
+        From Graph2, the following  two conclusion can be made:
+        * Highest successrate for funding goals are in the region of 0-$4999
+        * There are no cancellations 
+      
+ # 4. Limitations of Datasets
 ##   4.1 Outcome based on launchdate-limitations
         As shown in Graph1, the highest theater lanches are most successful during may month, however during the same month, we can
         see an increase in failed launches. We can look into the outcome proportions. We can see if this trend is the same if we isolate
-        a country we are interested in launching our theatre in. We can also see if there is a genre that is more popular in the theater category
-        
-        
-##   3.2 Outcome based on goals-limitations
-        Graph2 does not show the total projects for each price range. Furthermore, it might be a good idea so define a region where most projects 
-        seem to be successful.
-        There is also no information on what decides the funding goal amount.
-           
-        
+        a country we are interested in launching our theatre in. We can also see if there is a genre that is more popular in the theater category       
 
+ ##   4.2 Outcome based on goals-limitations
        
+        Limitations:
+        * The graph does not show proportion of outcome vs total project for each goal range. It can be useful to see the total project
+          for each defined goal range.
+        * It can be useful to look closer to the goal ranges wehre success rate is higher and find out if there is any links to other
+          parameters.
+        * The graph does not limit our findings to any specific country. Different countries might have different trends.
+        
+            
     
        
        
