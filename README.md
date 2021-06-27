@@ -72,7 +72,8 @@
     
        
 #### Graph 3       
-       ![image](https://user-images.githubusercontent.com/85843030/123554958-b214df80-d750-11eb-8a29-c03d4c15acf4.png)
+![image](https://user-images.githubusercontent.com/85843030/123555234-7a0e9c00-d752-11eb-98fa-7effbdd43fba.png)
+
 
        
        
