@@ -10,8 +10,9 @@
        Part 1 is to visualize any link between launch date and outcome for the theater category.
        Part 2 is to  visualize any link between funding goals and outcome for theater and subcategory plays.
       
-       The main challenge with this project is to sort and plot data in such way that we get an overview of
+       The main challenge with this project is to sort and plot data in such way that we get a meaningful overview of
        the outcomes.
+       
        
        
 ##   2.1 Analysis of outcome based on Launch date
@@ -44,7 +45,7 @@
 ##  3.1 Outcome based on launch date-results
         From Graph1, two conclusions can be made:
         * Highest success rate for theater is in May.
-        * Lowest success rate for theater is in May as well.
+        * Highest fail rate for theater is in May as well.
         
         
 ##  3.2 Outcome based on funding goal-results
