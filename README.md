@@ -109,7 +109,7 @@ are able to say that since these two countries had the most total projects, they
 
 Graphs 6 and 7 show that there are more projects in the $0-$4999 goal range, that any other range. If we
 take a closer look it can be seen that the overal percentage of success is higher for the $0-6000 range. Hence it seems that
-it is easier to reach a fund raising goal when your goal range limit is $6000 or less.
+it is easier to obtain a successful outcome when your goal range limit is in the $6000 range or less.
 
 
 
