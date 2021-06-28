@@ -18,7 +18,7 @@
 ##   2.1 Analysis of outcome based on Launch date
        The analysis carried out consists of looking to see if there is a link between successful funding goals and launch date.
        For this task, a data table is created counting the successful outcomes, failed outcomse and canceled outcomes
-       for each month,and for all the years. The results are ploted in Graph1.
+       for each month,and for all the years. The results are ploted in _Graph1.
        
        
  #### Graph1: Theater Outcomes Based on Launch Date      
