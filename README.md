@@ -1,20 +1,20 @@
 # 1. Kickstarter Analysis
 ##   1.1 Overview and purpose of the project
+
        Analysis are made to the kickstarter data to recognize and visualize any trends between the success rate 
        and that of funding goals and launch date specificaly for the theater category and plays. 
        The outcome of the analysis is shown in graphs.
        
 # 2. Analysis and Challenges
-       
        The analysis is performed in 2 parts.
+       
        Part 1 is to visualize any link between launch date and outcome for the theater category.
-       Part 2 is to  visualize any link between funding goals and outcome for theater and subcategory plays.
+       Part 2 is to visualize any link between funding goals and outcome for theater and subcategory plays.
       
        The main challenge with this project is to sort and plot data in such way that we get a meaningful overview of
        the outcomes.
        
-       
-       
+         
 ##   2.1 Analysis of outcome based on Launch date
        The analysis carried out consists of looking to see if there is a link between successful funding goals and launch date.
        For this task, a data table is created counting the successful outcomes, failed outcomse and canceled outcomes
@@ -50,7 +50,7 @@
         
 ##  3.2 Outcome based on funding goal-results
         From Graph2, the following  two conclusion can be made:
-        * Highest successrate for funding goals are in the region of 0-$4999
+        * Highest successrate for funding goals happen for the $0-$4999 range.
         * There are no cancellations 
       
  # 4. Limitations of Datasets
@@ -108,7 +108,7 @@ are able to say that since these two countries had the most total projects, they
 ![image](https://user-images.githubusercontent.com/85843030/123556651-5fd8bc00-d75a-11eb-9de4-bdf963f963a1.png)
 
 Graphs 6 and 7 show that there are more projects in the $0-$4999 goal range, that any other range. If we
-take a closer look it can be seen that the percentage of success is higher for the $0-5000 range. Hence it seems that
+take a closer look it can be seen that the overal percentage of success is higher for the $0-6000 range. Hence it seems that
 it is easier to reach a fund raising goal when your goal range limit is $6000 or less.
 
 
